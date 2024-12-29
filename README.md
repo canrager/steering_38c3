@@ -20,3 +20,5 @@ https://blog.eleuther.ai/autointerp/
 LLM interpretability bootcamp / execrises:
 https://github.com/callummcdougall/ARENA_3.0
 Probe training specifically: https://arena3-chapter1-transformer-interp.streamlit.app/[1.5.3]_OthelloGPT
+
+Steering paper https://arxiv.org/abs/2312.06681
