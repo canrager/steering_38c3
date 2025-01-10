@@ -10,5 +10,5 @@ name = "steering_38c3"
 version = "0.1.0"
 dependencies = [
     "transformers",
-    "nnsight==0.4.0.dev",
+    "git+https://github.com/ndif-team/nnsight.git@0.4",
 ]
